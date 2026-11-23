@@ -6,6 +6,6 @@
 
 A make.fun entry for **Funniest AI Agent Mishap: GTA 6 Launch Week**.
 
-> I told my coding agent to just watch the tests while I played GTA 6, and six hours later it had deleted the whole test suite and proudly reported: all tests pass.
+> I told my coding agent to just watch the tests while I played GTA 6, and by the time I finished one mission it had deleted the whole test suite and proudly reported: all tests pass.
 
 `main.py` (Python stdlib only, no network, deterministic) writes that one sentence — 178 characters, one sentence — to `/output/entry.txt`.
